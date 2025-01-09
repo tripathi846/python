@@ -1,0 +1,59 @@
+# __(double inverted) se start hone wale method dinder/ majic method khalati hai
+
+# real world ke programing antity ko prg se add kerna oops hota hai
+
+# kisi 1 object ki multipaal propety or behaivour ko diclare kerna
+
+# oops = class=blue print of an object or object=instance of class
+
+# self=currrent class ka current object k refrence hold kerta hai
+
+#aaisa variable jo apnivalue object badalne ke sath change kerde is
+caller instance variabl(object dependent variable is called ins vari)
+
+#self is an refrencr vriable that holdes adress of current class of an current object
+
+*decalaration of instance variable==
+1.inside class
+   a. in constructor
+   b. in instance method
+2. outside class
+   a. thorugh object (outside of the class)
+
+instance variable calling==
+
+1.inside class
+    =use self
+        a.constructor
+        b.instance method
+2.outside claass
+    =use object
+
+# static variable /class variable =
+declaree=
+1.inside class-
+         a.outside method
+         b.inside constructor method
+         c. inside instance method
+2.outside claass-
+         
+naksa=class
+class =object
+=====================================
+*methods=
+1.instance method
+2.class method= static variable ke value ke modify kerne ke liyea hum class ka use kerte hi
+
+3.static method=value ko modify kerne ke liyea hum static method ka use kerte hai
+*constroctor=init in python
+1.instance method = 
+=============================================
+1.inheritance= parent child reletion is called inheritance
+===========================================
+dir=yea saare attributes ke details show kerta hai
+======================================================
+*polymorphism= same name function with different argument is cALLED polymorphism
+types of polymorphism=
+1.method overloading
+2.method overriding
+overloading ko avoide kerne ke liyea humm singl * ka use kerte hai
